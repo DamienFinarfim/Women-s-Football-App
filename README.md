@@ -1,4 +1,4 @@
-## Aplicativo de futebol feminino sobre notícial.
+## Aplicativo de notícias sobre futebol feminino.
 
 ##### Foi criado botão de navegação
 ##### CardView para as notícias
